@@ -1,0 +1,16 @@
+{
+  "hostNameX":"doclerholding.com",
+  "hostNameY":"escalion.com",
+  "urlX":"http://www.doclerholding.com",
+  "urlY":"http://www.escalion.com",
+  "icmpPingDelay":10,
+  "tcpPingDelay":12,
+  "tcpMaxResponseTime":10,
+  "tracertDelay":30,
+  "reportUrl":"http://www.doclerholding.com",
+  "threadPoolSize":10,
+  "icmplogFile":"icmp_log_requests.log",
+  "tcplogFile":"tcp_log_requests.log",
+  "tracelogFile":"trace_log_requests.log"
+  
+}

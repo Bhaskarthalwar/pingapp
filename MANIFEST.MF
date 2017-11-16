@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: thalwar
+Created-By: Apache Maven 3.3.9
+Main-Class: docler.pingapp.core.App
+Build-Jdk: 1.8.0_111
+
